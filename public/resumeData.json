@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Juan Domingo",
+    "occupation": "Estudiante Desarrollador Web Full Stack",
+    "description": "Me siento capacitado para cubrir uno de los puestos que me ofrezcan ya que mi experiencia profesional esta centrado en lenguajes de programación convirtiéndome en desarrollador web full stack. Actualmente estoy cursando developer web full stack en el bootcamp de Henry y he estado trabajando con metodología scrum, formando equipos para la solución de los distintos problemas que se nos planteaban durante el curso dominando así los lenguajes de programación Javascript, “HTML”, css, React con Redux, Express, Postgres.",
+    "image": "foto mia2.jpg",
+    "bio": "Estoy capacitado tanto para el Back-end: Express, Postgres, Sequelize, Axios...como para el Front-End: Javascript, Css, Html, React, Redux, Boostrap..",
+    "contactmessage": "Si estas interesado en mi perfil y quieres saber mas, no dudes en contactarme.",
+    "email": "israelcerro33@gmail.com",
+    "phone": "+523222274237",
+    "address": {
+      "street": "C/Miramar n°541",
+      "city": "Puerto Vallarta",
+      "state": "Jalisco",
+      "zip": ""
+    },
+   
+   
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "linkedin.com/in/juan-domingo-cerro-nieto-b91095210/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "http://github.com/Juan-Domingo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Domino Front-End y Back end",
+    "education": [
+      {
+        "school": "Universidad Abierta y a Distancia de Mexico (UNADM)",
+        "degree": "Ingenieria en Logistica y Transporte",
+        "graduated": "En curso",
+        "description": "Adquiero habilidades para el manejo y control de grandes almacenes"
+      } 
+    ],
+    "work": [
+      {
+        "company": "Henry",
+        "title": "Junior Avanzado ",
+        "years": "Mayo 2021 - Presente",
+        "description": "Estudiante en desarrollo de web full stack con tecnologias en Front-end t en Back-end"
+      } 
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Express",
+        "level": "55%"
+      },
+      {
+        "name": "Sequelize",
+        "level": "50%"
+      },
+      {
+        "name": "Postgres",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Css",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+      "name": "ReactJs",
+      "level": "70%"
+    },
+    {
+    "name": "Redux",
+    "level": "70%"
+    }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Api comidas",
+        "category": "Creador de recetas de comidas",
+        "image": "italian.jpg",
+        "url": "https://github.com/Juan-Domingo/Juan-Domingo.github.io/tree/main/Proyecto%20API%20comidas"
+      },
+      {
+        "title": "Api pokemon",
+        "category": "Buscador de pokemons y creador",
+        "image": "poke2.jpg",
+        "url": "https://github.com/Juan-Domingo/Juan-Domingo.github.io/blob/main/Proyecto%20API%20pokemon"
+      },
+      {
+        "title": "Api Countries",
+        "category": "Buscador de banderas de los paises del mundo",
+        "image": "countri.jpg",
+        "url": "https://github.com/Juan-Domingo/Juan-Domingo.github.io/tree/main/Proyecto%20API%20countries"
+      },
+      {
+        "title": "Parallax 1",
+        "category": "Proyecto de parallax",
+        "image": "paral.jpg",
+        "url": "https://github.com/Juan-Domingo/Juan-Domingo.github.io/tree/main/Proyecto%20Parallax"
+      },
+      {
+        "title": "Parallax 2",
+        "category": "Segundo proyecto de parallax",
+        "image": "parala1.jpg",
+        "url": "https://github.com/Juan-Domingo/Juan-Domingo.github.io/tree/main/Proyecto%20Parallax2"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Está buenísima, loco! Cómo puede ser que no pasaras? Me encantaron los pókemons animados. Cómo cambiaste las imágenes estáticas de la API por esos gif? A mí me encantó la app",
+        "user": "Daniel Abuaf"
+      },
+      {
+        "text": "Juan, excelente el proyecto! Muy buen resultado final. Ahora a agarrar confianza que tenés todo para ser un gran desarrollador!",
+        "user": "Maximiliano Sanchez"
+      }
+    ]
+  }
+}
